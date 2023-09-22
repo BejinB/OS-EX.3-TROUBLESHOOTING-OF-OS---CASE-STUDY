@@ -25,15 +25,15 @@ Backup Important Data:
 Reboot Your Computer:
    - Sometimes, a simple restart can resolve minor issues. Ensure that you perform a proper shutdown and then power your computer back on.
 Check for Error Messages:
-   - Pay attention to any error messages or codes displayed during startup or while using the OS. These can provide valuable clues about the problem.
+   - Pay attention to any error messages or codes displayed during startup or while using the OS. These can provide valuable clues about the problem.   
  ![image](https://github.com/BejinB/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/118367518/14ea4f8e-6df7-4aa6-8d89-23cd0675a797)
 
 Isolate Hardware Issues:
-   - If you suspect hardware problems (e.g., a malfunctioning hard drive or RAM), consider running hardware diagnostics or tests provided by your computer manufacturer. 
+   - If you suspect hardware problems (e.g., a malfunctioning hard drive or RAM), consider running hardware diagnostics or tests provided by your computer manufacturer.    
  ![image](https://github.com/BejinB/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/118367518/c4a633fa-3cd8-43c1-8f97-42ec25a684fc)
 
 Boot into Safe Mode:
-   - Booting into Safe Mode (usually by pressing F8 or Shift + F8 during startup on Windows systems) can help you determine if the issue is related to third-party software or drivers.
+   - Booting into Safe Mode (usually by pressing F8 or Shift + F8 during startup on Windows systems) can help you determine if the issue is related to third-party software or drivers.     
  ![image](https://github.com/BejinB/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/118367518/910d6c64-3117-4e7e-85f7-6da8733312b0)
 
 Update Drivers and Software:
@@ -56,7 +56,7 @@ System Restore (Windows) or Time Machine (macOS):
     - If you can pinpoint when the problem started, you can use System Restore on Windows or Time Machine on macOS to roll back your OS to a previous, working state.
 Check Event Logs:
 
-    - Review the event logs in your OS to see if there are any critical errors or warnings that can provide insight into the problem.
+    - Review the event logs in your OS to see if there are any critical errors or warnings that can provide insight into the problem.   
  ![image](https://github.com/BejinB/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/118367518/4f804100-3fa1-423e-97e5-7013f48b7304)
 
 Check for Updates:

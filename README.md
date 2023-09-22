@@ -1,6 +1,6 @@
 # OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY
 
-## AIM:
+## AIM: 
 Troubleshooting an OPERATING SYSTEM.
 ##MATERIALS REQUIRED:
 -	Computer or Device
@@ -26,13 +26,16 @@ Reboot Your Computer:
    - Sometimes, a simple restart can resolve minor issues. Ensure that you perform a proper shutdown and then power your computer back on.
 Check for Error Messages:
    - Pay attention to any error messages or codes displayed during startup or while using the OS. These can provide valuable clues about the problem.
- 
+ ![image](https://github.com/BejinB/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/118367518/14ea4f8e-6df7-4aa6-8d89-23cd0675a797)
+
 Isolate Hardware Issues:
    - If you suspect hardware problems (e.g., a malfunctioning hard drive or RAM), consider running hardware diagnostics or tests provided by your computer manufacturer. 
- 
+ ![image](https://github.com/BejinB/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/118367518/c4a633fa-3cd8-43c1-8f97-42ec25a684fc)
+
 Boot into Safe Mode:
    - Booting into Safe Mode (usually by pressing F8 or Shift + F8 during startup on Windows systems) can help you determine if the issue is related to third-party software or drivers.
- 
+ ![image](https://github.com/BejinB/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/118367518/910d6c64-3117-4e7e-85f7-6da8733312b0)
+
 Update Drivers and Software:
 
    - Ensure that your OS, drivers, and software applications are up to date. Outdated drivers or software can cause compatibility issues.
@@ -54,11 +57,13 @@ System Restore (Windows) or Time Machine (macOS):
 Check Event Logs:
 
     - Review the event logs in your OS to see if there are any critical errors or warnings that can provide insight into the problem.
- 
+ ![image](https://github.com/BejinB/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/118367518/4f804100-3fa1-423e-97e5-7013f48b7304)
+
 Check for Updates:
 
 - Ensure that your OS is running the latest updates and patches. Sometimes, OS updates can address known issues.
- 
+ ![image](https://github.com/BejinB/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/118367518/c692163d-f5ef-4763-90f1-96d729255933)
+
 Seek Online Resources and Support:
 - If you're unable to resolve the issue on your own, search online forums, knowledge bases, or consult support resources for your specific OS or hardware.
 Consult a Professional:

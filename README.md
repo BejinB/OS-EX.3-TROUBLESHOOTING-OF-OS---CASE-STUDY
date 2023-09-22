@@ -1,6 +1,6 @@
 # OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY
 
-##AIM:
+## AIM:
 Troubleshooting an OPERATING SYSTEM.
 ##MATERIALS REQUIRED:
 -	Computer or Device
@@ -17,7 +17,7 @@ Troubleshooting an OPERATING SYSTEM.
 -	Pen and Paper
 
 
-##PROCEDURE:
+## PROCEDURE:
 Identify the Problem:
    - Begin by pinpointing the specific issue you're encountering. Is it a startup problem, performance issue, hardware-related issue, software/application issue, or something else entirely.
 Backup Important Data:
@@ -66,5 +66,5 @@ Consult a Professional:
     - If all else fails and you're unable to resolve the problem, consider seeking help from a professional technician or IT expert who can diagnose and repair more complex issues.
 
 
-##RESULT:
+## RESULT:
 Thus the troubleshooting of os is successfully executed
